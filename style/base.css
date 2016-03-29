@@ -1,0 +1,21 @@
+* {
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	font-size: 100%;
+}
+
+body {
+    font-size: 1.7em;
+    padding: 1.7em;
+    font-family: 'Roboto', Arial, serif; font-weight: 400;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+p {
+    margin-bottom: 2em;
+}
