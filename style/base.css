@@ -17,9 +17,10 @@ h1 {
 }
 
 p {
-    margin-bottom: 2em;
+    margin-bottom: 1.5em;
 }
 
 li {
     margin-left: 1.3em;
+    margin-bottom: 0.5em;
 }
