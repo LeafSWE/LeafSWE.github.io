@@ -24,3 +24,7 @@ li {
     margin-left: 1.3em;
     margin-bottom: 0.5em;
 }
+
+p.image_in_li {
+    margin:0.5em;
+}
